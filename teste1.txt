@@ -1,0 +1,5 @@
+Este arquivo contem dados de residencia
+Nome Endereco Cidade Estado Pais
+Maria, Rua Carmelita, Curitiba, PR, Brasil
+Jose, Rua Silva, Curitiba, PR, Brasil
+Pedro, Rua Goncalves, Morretes, PR, Brasil
